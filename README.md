@@ -1,16 +1,16 @@
-### Hi there 👋
+### Christian Vega
 
-<!--
-**cpgvega/cpgvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+#### About Me
+- 🎓 Bachelor of Science in Engineering, majoring in Computer Science Engineering.
+- 👨‍💻 Passionate about robotics and autonomous technologies.
+- 🚀 Proficient in C, C++, Python, and Java.
+- 🌟 Open to work opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact Me
+- 📧 Email: [chris.pg.vega@gmail.com](mailto:chris.pg.vega@gmail.com)
+- 💼 LinkedIn: [Christian Vega]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/christian-vega-42128a246/)
+- 🐦 Twitter: [@Real_C_Vega](https://twitter.com/Real_C_Vega)
+
+Feel free to explore my projects and reach out if you have any questions or opportunities!
