@@ -10,7 +10,7 @@ Welcome to my GitHub!
 
 #### Contact Me
 - 📧 Email: [chris.pg.vega@gmail.com](mailto:chris.pg.vega@gmail.com)
-- 💼 LinkedIn: [Christian Vega]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/christian-vega-42128a246/)
+- 💼 LinkedIn: [Christian Vega]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/christian-vega-42128a246/))
 - 🐦 Twitter: [@Real_C_Vega](https://twitter.com/Real_C_Vega)
 
 Feel free to explore my projects and reach out if you have any questions or opportunities!
